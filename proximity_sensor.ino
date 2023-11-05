@@ -15,5 +15,5 @@ void loop() {
     Serial.println("No object detected.");
   }
 
-  delay(1000); // Delay for a moment before taking another reading
+  delay(5000); // Delay for a moment before taking another reading
 }
