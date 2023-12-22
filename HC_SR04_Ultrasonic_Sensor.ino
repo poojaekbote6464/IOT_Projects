@@ -1,3 +1,4 @@
+//Ultrasonic_sensor
 // Define the pins for the ultrasonic sensor
 const int trigPin = 7; // Trigger pin
 const int echoPin = 10; // Echo pin
